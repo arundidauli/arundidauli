@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**arundidauli/arundidauli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭  I’m currently working on Flutter and Android.
 
-Here are some ideas to get you started:
+- 🌱  I’m currently learning Backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯  I’m looking to collaborate on open-source projects.
+
+- 💫  I am open to work on new ideas.
+
+- 📫  How to reach me: arunandroid
+
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+
+</details>
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/arundidauli/count.svg" />
+ 
+</p>
