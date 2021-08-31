@@ -10,7 +10,7 @@
 
 - 📫  How to reach me: arunandroid
 
--[UI Design](https://xd.adobe.com/view/1279de18-d67b-4745-8747-ec22419a1804-472a/screen/c2defe93-8d6a-4eeb-89c3-cf8b6cfa3359/specs/)
+- [Task UI Design](https://xd.adobe.com/view/1279de18-d67b-4745-8747-ec22419a1804-472a/screen/c2defe93-8d6a-4eeb-89c3-cf8b6cfa3359/specs/)
 
 
  <details>
