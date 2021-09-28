@@ -19,7 +19,6 @@
 - [GlizzyKart](https://file.io/beyieObkl6Ax)
 
 
-<iframe src="https://pl.kotl.in/QULuXHzNz?theme=darcula&from=6"></iframe>
 
  <details>
 <summary>📊 Github Stats</summary>
