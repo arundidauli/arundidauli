@@ -15,7 +15,7 @@
 - [Api Sample](https://docs.google.com/uc?export=download&id=1gyCJUMHfGsAeVePL6NM9jxwRaCa7RxPH)
 - [Dark UI](https://xd.adobe.com/view/edadf545-fa86-4245-869a-b6fd5aeb5291-b8fe/)
 - [Styler UI](https://xd.adobe.com/view/9b601217-6788-47ee-9727-22b9125134cd-ce33/screen/c870a779-93c8-475a-b3fa-559602fd8e78/)
-- [SmoxStyler Apk](https://www.filemail.com/d/wqrofdmxoikfncq)
+- [SmoxStyler Apk](https://www.filemail.com/d/ziriltgdajvxvfx)
 - [GlizzyKart](https://file.io/beyieObkl6Ax)
 
 
