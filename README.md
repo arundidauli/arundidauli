@@ -9,8 +9,8 @@
 - 💫  I am open to work on new ideas.
 
 - 📫  How to reach me: Search on google Arun Android
-
-- 🦕 (Facebook)[https://www.facebook.com/arunandroid0]
+- 
+- (Facebook)[https://www.facebook.com/arunandroid0]
 
 <p > 
   Visitor count<br>
