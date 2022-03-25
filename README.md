@@ -12,6 +12,8 @@
 
 - 🦕 [Facebook](https://www.facebook.com/arunandroid0)
 
+- News App Link [Download Apk](https://docs.google.com/uc?export=download&id=1uh-ma-ljgJsFDwgs7hWytFS2yjrK5DaT)
+
 <p > 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/arundidauli/count.svg" />
