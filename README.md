@@ -12,7 +12,7 @@
 
 - 🦕 [Facebook](https://www.facebook.com/arunandroid0)
 
-- News App Link [Download Apk](https://docs.google.com/uc?export=download&id=1uh-ma-ljgJsFDwgs7hWytFS2yjrK5DaT)
+- Chat GPT App Link [Download Apk](https://drive.google.com/file/d/1cK44sPdHwSGzCvbJC3xIvfI_tQzoFiJJ/view?usp=sharing)
 
 <p > 
   Visitor count<br>
