@@ -1,21 +1,47 @@
-### Hi there 👋
+# 👋 Hi, I'm Arun Kumar
 
-- 🔭  I’m currently working on Flutter and Android.
+🚀 **Mobile App Developer | Android | iOS | Flutter | Hybrid Apps**  
 
-- 🌱  I’m currently learning Backend development
+I specialize in building **high-performance, user-friendly, and scalable applications** for Android and iOS using **Flutter** and other hybrid frameworks. With experience working with global clients from **Australia, USA, and Dubai**, I ensure seamless communication, project upgrades, and compliance with **App Store & Play Store policies**.  
 
-- 👯  I’m looking to collaborate on open-source projects.
+---
 
-- 💫  I am open to work on new ideas.
+## 🔧 Skills & Expertise  
 
-- 📫  How to reach me: Search on google Arun Android
+- 📱 **Mobile Development**: Android, iOS, Flutter, Hybrid Apps  
+- 🛠 **Tools & Platforms**: Android Studio, Xcode, VS Code  
+- ⚡ **Release Management**: CI/CD pipelines, automated testing, publishing to Play Store & App Store  
+- 📊 **Task Management**: Jira, Trello, Monday  
+- 🌍 **Client Communication**: Requirement gathering, feedback handling, and iterative delivery  
 
-- 🦕 [Facebook](https://www.facebook.com/arunandroid0)
+---
 
-- Chat GPT App Link [Download Apk](https://drive.google.com/file/d/1cK44sPdHwSGzCvbJC3xIvfI_tQzoFiJJ/view?usp=sharing)
+## 🌟 What I Do  
 
-<p > 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/arundidauli/count.svg" />
- 
-</p>
+✅ Build cross-platform apps with **Flutter**  
+✅ Ensure **compliance** with app store guidelines  
+✅ Manage **CI/CD pipelines** for seamless releases  
+✅ Upgrade and maintain existing projects  
+✅ Deliver apps with **optimized performance & user experience**  
+
+---
+
+## 📈 Work Style  
+
+- 🔄 Agile & iterative development approach  
+- 🎯 Focused on **timely project delivery**  
+- 🛡 Commitment to **quality & client satisfaction**  
+- 🤝 Open communication for smooth collaboration  
+
+---
+
+## 📬 Let's Connect  
+
+- 🌐 Portfolio: [https://arundidauli.github.io/]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/arun-kumar-172b57220/]  
+- 📧 Email: [arun080697@gmail.com]  
+- 🐙 GitHub: [https://github.com/arundidauli]  
+
+---
+
+⭐️ *Feel free to explore my repositories and projects. Contributions, collaborations, and feedback are always welcome!*  
