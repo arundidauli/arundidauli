@@ -37,10 +37,11 @@ I specialize in building **high-performance, user-friendly, and scalable applica
 
 ## 📬 Let's Connect  
 
-- 🌐 Portfolio: [https://arundidauli.github.io/]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/arun-kumar-172b57220/]  
-- 📧 Email: [arun080697@gmail.com]  
-- 🐙 GitHub: [https://github.com/arundidauli]  
+- 🌐 [Portfolio](https://arundidauli.github.io/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arun-kumar-172b57220/)  
+- 📧 [Email](mailto:arun080697@gmail.com)  
+- 🐙 [GitHub](https://github.com/arundidauli)  
+
 
 ---
 
