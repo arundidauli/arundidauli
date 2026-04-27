@@ -30,8 +30,8 @@ Holds two **Anthropic certifications** — *Claude Code in Action* and *Introduc
 
 | Certification | Issuer | Year |
 |---|---|---|
-| [Claude Code in Action](https://lnkd.in/gDBbTNMb) | Anthropic | 2025 |
-| [Introduction to Agent Skills](https://lnkd.in/gcemyf9C) | Anthropic | 2025 |
+| [Claude Code in Action](https://lnkd.in/gDBbTNMb) | Anthropic | 2026 |
+| [Introduction to Agent Skills](https://lnkd.in/gcemyf9C) | Anthropic | 2026 |
 
 ---
 
@@ -100,6 +100,7 @@ Independently designed, built, and deployed the complete product — web app, mo
 
 | Project | Description | Link |
 |---|---|---|
+| **Baby-keyboard-fun** | Baby Keyboard Fun is a touch-friendly fullscreen keyboard toy for babies and toddlers, built as a lightweight static web app with colorful animations, sound effects, mobile support, and safe key interception. | [arundidauli.github.io/baby-keyboard-fun](https://arundidauli.github.io/baby-keyboard-fun/) |
 | **Ask-Softly** | Mobile-first app for asking something you cannot say directly | [arundidauli.github.io/Ask-Softly](https://arundidauli.github.io/Ask-Softly) |
 | **Oracle** | Deep Future Intelligence System | [arundidauli.github.io/oracle](https://arundidauli.github.io/oracle) |
 | **Lead Generation Tool** | Smart lead management and pipeline tool | [arundidauli.github.io/lead-generations-tool](https://arundidauli.github.io/lead-generations-tool) |
