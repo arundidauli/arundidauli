@@ -16,6 +16,11 @@
   <a href="https://arundidauli.github.io">Portfolio</a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arundidauli&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arundidauli&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=30a14e&currStreakLabel=58a6ff" alt="GitHub Streak" width="49%">
+</p>
+
 ---
 
 ## 🧑‍💻 Professional Summary
@@ -226,21 +231,6 @@ Independently designed, built, and deployed the complete product — web app, mo
     </td>
   </tr>
 </table>
-
-### Quick Reference
-
-| App | Description | Tech Stack | Live Demo |
-|---|---|---|---|
-| **Baby Keyboard Fun** | Fullscreen keyboard toy for babies — animations, sounds, offline | HTML, CSS, JS | [Demo](https://arundidauli.github.io/baby-keyboard-fun/) |
-| **Ask Softly** | Anonymous mobile-first asking app | JavaScript, HTML | [Demo](https://arundidauli.github.io/Ask-Softly/) |
-| **Oracle** | Deep Future Intelligence System | JavaScript, HTML | [Demo](https://arundidauli.github.io/oracle/) |
-| **Lead Generation Tool** | Smart lead management & pipeline tool | HTML, CSS, JS | [Demo](https://arundidauli.github.io/lead-generations-tool/) |
-| **JSON to Excel** | Convert JSON/CSV to Excel — no server, all browser | HTML, JavaScript | [Demo](https://arundidauli.github.io/json-to-excel/) |
-| **Smart EMI Calculator** | Instant EMI calculator for any product | HTML, CSS, JS | [Demo](https://arundidauli.github.io/Smart-EMI-Calculator/) |
-| **Theme Vision** | Preview website/app UI themes before choosing colors | TypeScript, React | [Demo](https://arundidauli.github.io/theme-vision/) |
-| **InvoiceCraft** | Professional invoice generator with PDF export | React, Vite, Tailwind | [Demo](https://arundidauli.github.io/InvoiceCraft/) |
-| **Typing Practice** | Typing game with WPM, XP, levels & heatmap | React, Vite, JS | [Demo](https://arundidauli.github.io/typing-practice/) |
-| **LuckyNum** | Supabase-powered game with auth & persistence | JS, Supabase | [Demo](https://arundidauli.github.io/luckynum/) |
 
 ---
 
