@@ -73,7 +73,6 @@ Independently designed, built, and deployed the complete product — web app, mo
 - Delivered **10+ production apps** for clients in Australia & New Zealand using Flutter, React Native, iOS Native, Android Native
 - Built and maintained Django REST Framework APIs — auth, CRUD, WebSocket endpoints, and third-party integrations
 - Integrated AI features via OpenAI API — smart search, in-app assistants, and recommendation engines
-- Reduced LLM API costs **~60%** through token compression, prompt caching, and context windowing
 - Automated full CI/CD pipeline via GitHub Actions + Fastlane — cut release turnaround from **2 days to under 2 hours**
 - Led a team of 4 with async-first workflow (Jira + Notion + Slack)
 - **Zero rejected builds** across 12+ consecutive App Store & Play Store release cycles
