@@ -80,22 +80,6 @@ Independently designed, built, and deployed the complete product — web app, mo
 
 ---
 
-## 📱 Client Projects Delivered
-
-| Project | Stack | Users/Notes |
-|---|---|---|
-| 🇮🇳 [Darzee App](https://darzeeapp.com) — Tailoring Management | Flutter, Android, iOS, REST API, Firebase | **30,000+ active users** |
-| 🇦🇺 [Disport](https://disport.com.au) — Sports Social Platform | React Native, Android & iOS | Live on Play Store & App Store |
-| 🇦🇪 [Faweeth](https://faweeth.com) — Building Materials Marketplace | Flutter, AR/EN multi-language, Django | Dubai market, full Arabic/English |
-| 🇦🇺 [The Goat](https://thegoat.com.au) — Sports Social App | Flutter, Firebase, WebSockets, Django REST | Elite athletes platform |
-| 🇦🇺 Medhub — Medicine Delivery App | React Native, Android & iOS, Django/Python | On-demand delivery |
-| 🇦🇺 [Your Fish](https://yourfish.com.au) — Fishing Social Network | Flutter, Firebase, Google Maps, REST API | Location-based social app |
-| 🇦🇺 T1 — Electrician Task Platform | React Native, Android & iOS, Django REST | Job scheduling & management |
-| 🇺🇸 [Pawpular](https://pawpular.io) — NFT Pet Rewards | Flutter, Web3, NFT integration | Blockchain pet rewards |
-| 🇨🇭 [Jobwish](https://jobwish.ch) — AI Job Platform | Flutter, OpenAI API, Firebase | AI-powered job matching |
-
----
-
 ## 🌐 Web Apps Portfolio — 2026
 
 > A collection of web apps I built, deployed, and host on GitHub Pages. Each app is free to use, mobile-friendly, and open source.
@@ -257,6 +241,22 @@ Independently designed, built, and deployed the complete product — web app, mo
 | **InvoiceCraft** | Professional invoice generator with PDF export | React, Vite, Tailwind | [Demo](https://arundidauli.github.io/InvoiceCraft/) |
 | **Typing Practice** | Typing game with WPM, XP, levels & heatmap | React, Vite, JS | [Demo](https://arundidauli.github.io/typing-practice/) |
 | **LuckyNum** | Supabase-powered game with auth & persistence | JS, Supabase | [Demo](https://arundidauli.github.io/luckynum/) |
+
+---
+
+## 📱 Client Projects Delivered
+
+| Project | Stack | Users/Notes |
+|---|---|---|
+| 🇮🇳 [Darzee App](https://darzeeapp.com) — Tailoring Management | Flutter, Android, iOS, REST API, Firebase | **30,000+ active users** |
+| 🇦🇺 [Disport](https://disport.com.au) — Sports Social Platform | React Native, Android & iOS | Live on Play Store & App Store |
+| 🇦🇪 [Faweeth](https://faweeth.com) — Building Materials Marketplace | Flutter, AR/EN multi-language, Django | Dubai market, full Arabic/English |
+| 🇦🇺 [The Goat](https://thegoat.com.au) — Sports Social App | Flutter, Firebase, WebSockets, Django REST | Elite athletes platform |
+| 🇦🇺 Medhub — Medicine Delivery App | React Native, Android & iOS, Django/Python | On-demand delivery |
+| 🇦🇺 [Your Fish](https://yourfish.com.au) — Fishing Social Network | Flutter, Firebase, Google Maps, REST API | Location-based social app |
+| 🇦🇺 T1 — Electrician Task Platform | React Native, Android & iOS, Django REST | Job scheduling & management |
+| 🇺🇸 [Pawpular](https://pawpular.io) — NFT Pet Rewards | Flutter, Web3, NFT integration | Blockchain pet rewards |
+| 🇨🇭 [Jobwish](https://jobwish.ch) — AI Job Platform | Flutter, OpenAI API, Firebase | AI-powered job matching |
 
 ---
 
