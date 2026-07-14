@@ -96,16 +96,167 @@ Independently designed, built, and deployed the complete product — web app, mo
 
 ---
 
-## 🧪 Personal Projects & Tools
+## 🌐 Web Apps Portfolio — 2026
 
-| Project | Description | Link |
-|---|---|---|
-| **Baby-keyboard-fun** | Baby Keyboard Fun is a touch-friendly fullscreen keyboard toy for babies and toddlers, built as a lightweight static web app with colorful animations, sound effects, mobile support, and safe key interception. | [arundidauli.github.io/baby-keyboard-fun](https://arundidauli.github.io/baby-keyboard-fun/) |
-| **Ask-Softly** | Mobile-first app for asking something you cannot say directly | [arundidauli.github.io/Ask-Softly](https://arundidauli.github.io/Ask-Softly) |
-| **Oracle** | Deep Future Intelligence System | [arundidauli.github.io/oracle](https://arundidauli.github.io/oracle) |
-| **Lead Generation Tool** | Smart lead management and pipeline tool | [arundidauli.github.io/lead-generations-tool](https://arundidauli.github.io/lead-generations-tool) |
-| **JSON to Excel** | Convert JSON & MongoDB data to Excel instantly — runs entirely in your browser, no server needed | [arundidauli.github.io/json-to-excel](https://arundidauli.github.io/json-to-excel) |
-| **Smart EMI Calculator** | Car, phone, or laptop — enter the price and know your EMI instantly | [arundidauli.github.io/Smart-EMI-Calculator](https://arundidauli.github.io/Smart-EMI-Calculator) |
+> A collection of web apps I built, deployed, and host on GitHub Pages. Each app is free to use, mobile-friendly, and open source.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://arundidauli.github.io/baby-keyboard-fun/">
+        <img src="assets/screenshots/baby-keyboard-fun.png" alt="Baby Keyboard Fun" width="100%">
+      </a>
+      <br>
+      <b>Baby Keyboard Fun</b>
+      <br>
+      <sub>Fullscreen keyboard toy for babies & toddlers — colorful animations, sounds, touch-friendly, offline-ready</sub>
+      <br>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      <br>
+      <a href="https://arundidauli.github.io/baby-keyboard-fun/">Live Demo</a> · <a href="https://github.com/arundidauli/baby-keyboard-fun">Source</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://arundidauli.github.io/Ask-Softly/">
+        <img src="assets/screenshots/ask-softly.png" alt="Ask Softly" width="100%">
+      </a>
+      <br>
+      <b>Ask Softly</b>
+      <br>
+      <sub>Mobile-first anonymous asking app — say what you can't say directly</sub>
+      <br>
+      <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
+      <br>
+      <a href="https://arundidauli.github.io/Ask-Softly/">Live Demo</a> · <a href="https://github.com/arundidauli/Ask-Softly">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://arundidauli.github.io/oracle/">
+        <img src="assets/screenshots/oracle.png" alt="Oracle" width="100%">
+      </a>
+      <br>
+      <b>Oracle</b>
+      <br>
+      <sub>Deep Future Intelligence System — AI-powered foresight and prediction tool</sub>
+      <br>
+      <code>JavaScript</code> <code>HTML</code>
+      <br>
+      <a href="https://arundidauli.github.io/oracle/">Live Demo</a> · <a href="https://github.com/arundidauli/oracle">Source</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://arundidauli.github.io/lead-generations-tool/">
+        <img src="assets/screenshots/lead-generations-tool.png" alt="Lead Generation Tool" width="100%">
+      </a>
+      <br>
+      <b>Lead Generation Tool</b>
+      <br>
+      <sub>Smart lead management and pipeline tool for tracking and converting prospects</sub>
+      <br>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      <br>
+      <a href="https://arundidauli.github.io/lead-generations-tool/">Live Demo</a> · <a href="https://github.com/arundidauli/lead-generations-tool">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://arundidauli.github.io/json-to-excel/">
+        <img src="assets/screenshots/json-to-excel.png" alt="JSON to Excel" width="100%">
+      </a>
+      <br>
+      <b>JSON to Excel</b>
+      <br>
+      <sub>Convert JSON & MongoDB data to Excel instantly — runs entirely in your browser, no server needed</sub>
+      <br>
+      <code>HTML</code> <code>JavaScript</code>
+      <br>
+      <a href="https://arundidauli.github.io/json-to-excel/">Live Demo</a> · <a href="https://github.com/arundidauli/json-to-excel">Source</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://arundidauli.github.io/Smart-EMI-Calculator/">
+        <img src="assets/screenshots/smart-emi-calculator.png" alt="Smart EMI Calculator" width="100%">
+      </a>
+      <br>
+      <b>Smart EMI Calculator</b>
+      <br>
+      <sub>Car, phone, or laptop — enter the price and know your EMI instantly</sub>
+      <br>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      <br>
+      <a href="https://arundidauli.github.io/Smart-EMI-Calculator/">Live Demo</a> · <a href="https://github.com/arundidauli/Smart-EMI-Calculator">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://arundidauli.github.io/theme-vision/">
+        <img src="assets/screenshots/theme-vision.png" alt="Theme Vision" width="100%">
+      </a>
+      <br>
+      <b>Theme Vision</b>
+      <br>
+      <sub>Preview complete websites and mobile apps with real UI before choosing your color palette — handcrafted themes for every industry</sub>
+      <br>
+      <code>TypeScript</code> <code>React</code> <code>CSS</code>
+      <br>
+      <a href="https://arundidauli.github.io/theme-vision/">Live Demo</a> · <a href="https://github.com/arundidauli/theme-vision">Source</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://arundidauli.github.io/InvoiceCraft/">
+        <img src="assets/screenshots/invoice-craft.png" alt="InvoiceCraft" width="100%">
+      </a>
+      <br>
+      <b>InvoiceCraft</b>
+      <br>
+      <sub>Professional invoice generator with live preview, PDF export, multiple templates, and local storage</sub>
+      <br>
+      <code>React</code> <code>Vite</code> <code>Tailwind CSS</code>
+      <br>
+      <a href="https://arundidauli.github.io/InvoiceCraft/">Live Demo</a> · <a href="https://github.com/arundidauli/InvoiceCraft">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://arundidauli.github.io/typing-practice/">
+        <img src="assets/screenshots/typing-practice.png" alt="Typing Practice" width="100%">
+      </a>
+      <br>
+      <b>Typing Practice</b>
+      <br>
+      <sub>Addictive typing game with real-time WPM tracking, XP progression, levels, achievements, and keyboard heatmap</sub>
+      <br>
+      <code>React</code> <code>Vite</code> <code>JavaScript</code>
+      <br>
+      <a href="https://arundidauli.github.io/typing-practice/">Live Demo</a> · <a href="https://github.com/arundidauli/typing-practice">Source</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://arundidauli.github.io/luckynum/">
+        <img src="assets/screenshots/luckynum.png" alt="LuckyNum" width="100%">
+      </a>
+      <br>
+      <b>LuckyNum</b>
+      <br>
+      <sub>Supabase-powered betting game with email auth, persistent player state, and free deployment</sub>
+      <br>
+      <code>JavaScript</code> <code>Supabase</code> <code>HTML</code>
+      <br>
+      <a href="https://arundidauli.github.io/luckynum/">Live Demo</a> · <a href="https://github.com/arundidauli/luckynum">Source</a>
+    </td>
+  </tr>
+</table>
+
+### Quick Reference
+
+| App | Description | Tech Stack | Live Demo |
+|---|---|---|---|
+| **Baby Keyboard Fun** | Fullscreen keyboard toy for babies — animations, sounds, offline | HTML, CSS, JS | [Demo](https://arundidauli.github.io/baby-keyboard-fun/) |
+| **Ask Softly** | Anonymous mobile-first asking app | JavaScript, HTML | [Demo](https://arundidauli.github.io/Ask-Softly/) |
+| **Oracle** | Deep Future Intelligence System | JavaScript, HTML | [Demo](https://arundidauli.github.io/oracle/) |
+| **Lead Generation Tool** | Smart lead management & pipeline tool | HTML, CSS, JS | [Demo](https://arundidauli.github.io/lead-generations-tool/) |
+| **JSON to Excel** | Convert JSON/CSV to Excel — no server, all browser | HTML, JavaScript | [Demo](https://arundidauli.github.io/json-to-excel/) |
+| **Smart EMI Calculator** | Instant EMI calculator for any product | HTML, CSS, JS | [Demo](https://arundidauli.github.io/Smart-EMI-Calculator/) |
+| **Theme Vision** | Preview website/app UI themes before choosing colors | TypeScript, React | [Demo](https://arundidauli.github.io/theme-vision/) |
+| **InvoiceCraft** | Professional invoice generator with PDF export | React, Vite, Tailwind | [Demo](https://arundidauli.github.io/InvoiceCraft/) |
+| **Typing Practice** | Typing game with WPM, XP, levels & heatmap | React, Vite, JS | [Demo](https://arundidauli.github.io/typing-practice/) |
+| **LuckyNum** | Supabase-powered game with auth & persistence | JS, Supabase | [Demo](https://arundidauli.github.io/luckynum/) |
 
 ---
 
@@ -140,5 +291,5 @@ Independently designed, built, and deployed the complete product — web app, mo
 ---
 
 <p align="center">
-  <i>Last updated: April 2026</i>
+  <i>Last updated: July 2026</i>
 </p>
