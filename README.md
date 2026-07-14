@@ -249,7 +249,6 @@ Independently designed, built, and deployed the complete product — web app, mo
 | 🇦🇺 [Your Fish](https://yourfish.com.au) — Fishing Social Network | Flutter, Firebase, Google Maps, REST API | Location-based social app |
 | 🇦🇺 T1 — Electrician Task Platform | React Native, Android & iOS, Django REST | Job scheduling & management |
 | 🇺🇸 [Pawpular](https://pawpular.io) — NFT Pet Rewards | Flutter, Web3, NFT integration | Blockchain pet rewards |
-| 🇨🇭 [Jobwish](https://jobwish.ch) — AI Job Platform | Flutter, OpenAI API, Firebase | AI-powered job matching |
 
 ---
 
@@ -274,8 +273,6 @@ Independently designed, built, and deployed the complete product — web app, mo
 ## 🎓 Education
 
 **B.Tech — Computer Science & Engineering** *(December 2019)*
-
-🏅 Employee of the Year — awarded multiple times for delivery and leadership.
 
 🌐 Languages: English, Hindi | Remote: async-first across AU, NZ, US & UAE time zones
 
