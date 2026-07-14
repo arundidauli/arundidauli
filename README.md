@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arundidauli&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arundidauli&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=30a14e&currStreakLabel=58a6ff" alt="GitHub Streak" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=arundidauli&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arundidauli&theme=radical&hide_border=true" alt="GitHub Streak" width="49%">
 </p>
 
 ---
@@ -42,14 +42,16 @@ Holds two **Anthropic certifications** — *Claude Code in Action* and *Introduc
 
 ## 🛠️ AI-Powered Development Toolkit — 10x Delivery
 
-> Shipping production-grade features faster, cutting review cycles, and optimising LLM API costs up to **60%** in live apps.
+> Shipping production-grade features faster with agentic coding, multi-model orchestration, and zero manual boilerplate.
 
-| Tool | Use | Impact |
+| Tool | Role | Superpower |
 |---|---|---|
-| **Claude Code CLI** | Agentic coding, refactoring & boilerplate at terminal speed | 10x faster delivery |
-| **Cursor IDE** | AI-first editor — codebase-aware completions across large Flutter projects | Multi-file context |
-| **GitHub Copilot** | Real-time inline completions across mobile, backend, and web | All stacks |
-| **OpenAI API** | Prompt engineering, token optimisation, RAG, function calling, AI agents | ~60% cost savings |
+| **Claude Code CLI** | Agentic terminal coder | Refactors entire codebases in one shot — no UI needed |
+| **OpenCode** | Agentic CLI assistant | Multi-file reasoning, plan-then-execute, context-aware edits |
+| **Cursor IDE** | AI-first editor | Codebase-aware completions across large Flutter & React projects |
+| **GitHub Copilot** | Inline pair programmer | Real-time suggestions across mobile, backend, and web stacks |
+| **Codex** | Autonomous code agent | Background task runner — generates features while you review |
+| **OpenClaw** | Automation engine | Chains AI actions into repeatable workflows — no manual steps |
 
 ---
 
