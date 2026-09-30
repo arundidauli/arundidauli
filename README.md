@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:arun080697@gmail.com">📧 arun080697@gmail.com</a> &nbsp;•&nbsp;
-  <a href="tel:+919389550053">📞 +91 9389550053</a> &nbsp;•&nbsp;
+  <a href="mailto:arunandroid01@gmail.com">📧 arun080697@gmail.com</a> &nbsp;•&nbsp;
   <a href="https://linkedin.com/in/arun-kumar-172b57220">LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://arundidauli.github.io">Portfolio</a>
 </p>
