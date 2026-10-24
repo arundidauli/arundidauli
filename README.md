@@ -1,283 +1,191 @@
-<h1 align="center">👋 Hi, I'm Arun Kumar</h1>
-<h3 align="center">Full-Stack Mobile Engineer & Product Builder</h3>
+<div align="center">
+
+# Hi, I'm Arun Kumar 👋
+### Senior Mobile & Full-Stack Engineer · Product Builder
 
 <p align="center">
-  <b>Flutter • React Native • Android • iOS • Django / Python • Next.js • AI-Dev</b>
+  <b>Flutter • React Native • iOS Native • Android Native • Django / Python • Next.js</b>
 </p>
 
 <p align="center">
-  🚀 25+ apps live &nbsp;•&nbsp; 45K+ global users &nbsp;•&nbsp; 5+ years experience &nbsp;•&nbsp; Delhi, India (Open to Remote)
+  <b>5+ Years Experience</b> &nbsp;•&nbsp; 
+  <b>30,000+ Active Users (Darzee App)</b> &nbsp;•&nbsp; 
+  <b>25+ Production Apps Shipped</b> &nbsp;•&nbsp; 
+  <b>Delhi NCR, India (Open to Remote Worldwide)</b>
 </p>
 
 <p align="center">
-  <a href="mailto:arunandroid01@gmail.com">📧 arunandroid01@gmail.com</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/arun-kumar-172b57220">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://arundidauli.github.io">Portfolio</a>
+  <a href="https://arundidauli.github.io/"><img src="https://img.shields.io/badge/Live_Portfolio-arundidauli.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://arundidauli.github.io/assets/Arun_Kumar_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Direct_PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" /></a>
+  <a href="https://www.linkedin.com/in/arun-kumar-172b57220/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arun080697@gmail.com"><img src="https://img.shields.io/badge/Email-arun080697@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/arundidauli">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arundidauli&theme=radical&hide_border=true" alt="GitHub Streak" width="100%">
-  </a>
-</p>
+</div>
 
 ---
 
-## 🧑‍💻 Professional Summary
+## ⚡ Executive Summary
 
-Full-Stack Mobile Engineer and product builder with **5+ years** delivering production apps across Flutter, Android, iOS, React Native, and Django/Python backends. Independently designed, built, and shipped live products serving real users. Worked with global clients across **Australia, New Zealand, USA, and Dubai**.
-
-Holds two **Anthropic certifications** — *Claude Code in Action* and *Introduction to Agent Skills*. Early AI-dev practitioner using Claude Code CLI, Cursor, Copilot, and Codex to deliver features **10x faster** and meaningfully reduce LLM API costs in production. Thrives in async-first, remote-distributed team environments.
-
----
-
-## 🏆 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| [Claude Code in Action](https://lnkd.in/gDBbTNMb) | Anthropic | 2026 |
-| [Introduction to Agent Skills](https://lnkd.in/gcemyf9C) | Anthropic | 2026 |
+Senior Mobile & Full-Stack Engineer with **5+ years** architecting, shipping, and scaling production mobile applications and distributed backends. 
+- Proven track record delivering **25+ production apps** across **Australia, New Zealand, USA, UAE, and India**.
+- Scaled **[Darzee App](https://www.darzeeapp.com/)** to **30,000+ active business users** on Google Play Store and Apple App Store.
+- Built, deployed, and independently bootstrapped **[Bicholiyas](https://bicholiyas.in/)** — a full-stack matrimonial community platform across Next.js, Django REST Framework, PostgreSQL, and Flutter.
+- Automated complete mobile CI/CD pipelines using **Fastlane & GitHub Actions**, slashing release turnaround from **2 days to under 2 hours** with **zero build rejections across 12+ consecutive release cycles**.
+- Experienced technical team lead driving agile, async-first remote development.
 
 ---
 
-## 🛠️ AI-Powered Development Toolkit — 10x Delivery
+## 📱 Flagship Production Deliverables
 
-> Shipping production-grade features faster with agentic coding, multi-model orchestration, and zero manual boilerplate.
-
-| Tool | Role | Superpower |
-|---|---|---|
-| **Claude Code CLI** | Agentic terminal coder | Refactors entire codebases in one shot — no UI needed |
-| **OpenCode** | Agentic CLI assistant | Multi-file reasoning, plan-then-execute, context-aware edits |
-| **Cursor IDE** | AI-first editor | Codebase-aware completions across large Flutter & React projects |
-| **GitHub Copilot** | Inline pair programmer | Real-time suggestions across mobile, backend, and web stacks |
-| **Codex** | Autonomous code agent | Background task runner — generates features while you review |
-| **OpenClaw** | Automation engine | Chains AI actions into repeatable workflows — no manual steps |
-
----
-
-## 🚀 Own Live Product — Built, Deployed & Maintained Independently
-
-### [Bicholiyas](https://bicholiyas.in) — Connecting Families for Marriage
-`Next.js` `Django REST Framework` `Python` `PostgreSQL` `Flutter`
-
-Independently designed, built, and deployed the complete product — web app, mobile app, and REST API backend. Sole developer across the entire stack. Discover trusted mediators and explore verified profiles across different locations.
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Application</th>
+      <th width="25%">Tech Stack</th>
+      <th width="45%">Scale & Engineering Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b><a href="https://www.darzeeapp.com/">Darzee App</a></b><br>
+        <sub>Tailoring Business Operations</sub>
+      </td>
+      <td>
+        <code>Flutter</code> <code>Android</code> <code>iOS</code><br>
+        <code>Firebase</code> <code>REST API</code>
+      </td>
+      <td>
+        • Scaled to <b>30,000+ active business owners</b>.<br>
+        • Offline-first SQLite local caching + cloud synchronization.<br>
+        • Predictable BLoC state management ensuring zero order data loss.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://bicholiyas.in/">Bicholiyas</a></b><br>
+        <sub>Independent 0-to-1 Startup</sub>
+      </td>
+      <td>
+        <code>Next.js</code> <code>Django REST</code><br>
+        <code>PostgreSQL</code> <code>Flutter</code>
+      </td>
+      <td>
+        • Independently designed, built, and deployed the complete stack.<br>
+        • Relational PostgreSQL database with geo-search & mediator verification.<br>
+        • Unified REST API serving web and cross-platform mobile apps.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://www.disport.com.au/">Disport</a></b><br>
+        <sub>Australia Sports Platform</sub>
+      </td>
+      <td>
+        <code>React Native</code> <code>Android</code><br>
+        <code>iOS</code> <code>WebSockets</code>
+      </td>
+      <td>
+        • 60 FPS video feed virtualization for athletic reels and highlights.<br>
+        • WebSocket-driven live leaderboards and instant athlete messaging.<br>
+        • Fully compliant with Australian App Store & Play Store requirements.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://faweeth.com">Faweeth</a></b><br>
+        <sub>Dubai B2B Marketplace</sub>
+      </td>
+      <td>
+        <code>Flutter</code> <code>Django REST</code><br>
+        <code>Arabic RTL</code> <code>PostgreSQL</code>
+      </td>
+      <td>
+        • Full bi-directional localization: Arabic (RTL) & English (LTR).<br>
+        • B2B procurement workflows for steel, cement, and construction goods.<br>
+        • High-throughput Django REST API with role-based vendor permissions.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://thegoat.com.au">The Goat</a></b><br>
+        <sub>Athletic Ranking Network</sub>
+      </td>
+      <td>
+        <code>Flutter</code> <code>Firebase</code><br>
+        <code>WebSockets</code> <code>Django REST</code>
+      </td>
+      <td>
+        • Low-latency WebSocket connections for real-time competitive rankings.<br>
+        • Client-side video compression optimizing bandwidth and upload speeds.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Medhub & Specialized Apps</b><br>
+        <sub>AU / US / Swiss Clients</sub>
+      </td>
+      <td>
+        <code>React Native</code> <code>Flutter</code><br>
+        <code>OpenAI API</code> <code>Fastlane</code>
+      </td>
+      <td>
+        • <b>Medhub:</b> On-demand pharmacy logistics with live driver GPS tracking.<br>
+        • <b>Jobwish:</b> OpenAI API candidate scoring with prompt caching that cut LLM token costs by <b>~60%</b>.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 💼 Professional Experience
 
-### Senior Software Engineer & Team Lead — *Infinity Soft Systems, Noida*
-`06/2023 – Present` | Remote-capable
+### **Senior Software Engineer & Team Lead** — *Infinity Soft Systems, Noida*
+`06/2023 – Present` | *Remote-Capable*
+- Delivered **10+ production apps** for clients in Australia & New Zealand using Flutter, React Native, iOS Native, and Android Native.
+- Architected and maintained Django REST Framework backends with custom auth, CRUD, WebSockets, and third-party SaaS integrations.
+- Built automated CI/CD pipelines via **GitHub Actions + Fastlane**, cutting release turnaround from **2 days to under 2 hours**.
+- Maintained a pristine record of **zero rejected builds** across 12+ consecutive App Store and Google Play Store release cycles.
+- Integrated OpenAI API for smart candidate matching and search; optimized prompt caching and context windows to **slash LLM API expenses by ~60%** in live production.
+- Led a team of 4 engineers with an async-first workflow (Jira, Notion, Slack), code reviews, and architectural guidance.
 
-- Delivered **10+ production apps** for clients in Australia & New Zealand using Flutter, React Native, iOS Native, Android Native
-- Built and maintained Django REST Framework APIs — auth, CRUD, WebSocket endpoints, and third-party integrations
-- Integrated AI features via OpenAI API — smart search, in-app assistants, and recommendation engines
-- Automated full CI/CD pipeline via GitHub Actions + Fastlane — cut release turnaround from **2 days to under 2 hours**
-- Led a team of 4 with async-first workflow (Jira + Notion + Slack)
-- **Zero rejected builds** across 12+ consecutive App Store & Play Store release cycles
-
-### Flutter Developer — *Shine Web Solutions Pvt. Ltd., Noida*
+### **Flutter Developer** — *Shine Web Solutions Pvt. Ltd., Noida*
 `09/2021 – 08/2023`
-
-- Built 6+ Flutter & Android apps with Firebase, Supabase, REST APIs, WebSockets, and payment gateway integrations
-- Designed and exposed REST APIs using Django REST Framework
-- Implemented GetX, Provider, and BLoC state management patterns
-- Early adopter of GitHub Copilot — increased personal feature output by **40%**
-
----
-
-## 🌐 Web Apps Portfolio — 2026
-
-> A collection of web apps I built, deployed, and host on GitHub Pages. Each app is free to use, mobile-friendly, and open source.
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://arundidauli.github.io/baby-keyboard-fun/">
-        <img src="assets/screenshots/baby-keyboard-fun.png" alt="Baby Keyboard Fun" width="100%">
-      </a>
-      <br>
-      <b>Baby Keyboard Fun</b>
-      <br>
-      <sub>Fullscreen keyboard toy for babies & toddlers — colorful animations, sounds, touch-friendly, offline-ready</sub>
-      <br>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-      <br>
-      <a href="https://arundidauli.github.io/baby-keyboard-fun/">Live Demo</a> · <a href="https://github.com/arundidauli/baby-keyboard-fun">Source</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://arundidauli.github.io/Ask-Softly/">
-        <img src="assets/screenshots/ask-softly.png" alt="Ask Softly" width="100%">
-      </a>
-      <br>
-      <b>Ask Softly</b>
-      <br>
-      <sub>Mobile-first anonymous asking app — say what you can't say directly</sub>
-      <br>
-      <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
-      <br>
-      <a href="https://arundidauli.github.io/Ask-Softly/">Live Demo</a> · <a href="https://github.com/arundidauli/Ask-Softly">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://arundidauli.github.io/oracle/">
-        <img src="assets/screenshots/oracle.png" alt="Oracle" width="100%">
-      </a>
-      <br>
-      <b>Oracle</b>
-      <br>
-      <sub>Deep Future Intelligence System — AI-powered foresight and prediction tool</sub>
-      <br>
-      <code>JavaScript</code> <code>HTML</code>
-      <br>
-      <a href="https://arundidauli.github.io/oracle/">Live Demo</a> · <a href="https://github.com/arundidauli/oracle">Source</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://arundidauli.github.io/lead-generations-tool/">
-        <img src="assets/screenshots/lead-generations-tool.png" alt="Lead Generation Tool" width="100%">
-      </a>
-      <br>
-      <b>Lead Generation Tool</b>
-      <br>
-      <sub>Smart lead management and pipeline tool for tracking and converting prospects</sub>
-      <br>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-      <br>
-      <a href="https://arundidauli.github.io/lead-generations-tool/">Live Demo</a> · <a href="https://github.com/arundidauli/lead-generations-tool">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://arundidauli.github.io/json-to-excel/">
-        <img src="assets/screenshots/json-to-excel.png" alt="JSON to Excel" width="100%">
-      </a>
-      <br>
-      <b>JSON to Excel</b>
-      <br>
-      <sub>Convert JSON & MongoDB data to Excel instantly — runs entirely in your browser, no server needed</sub>
-      <br>
-      <code>HTML</code> <code>JavaScript</code>
-      <br>
-      <a href="https://arundidauli.github.io/json-to-excel/">Live Demo</a> · <a href="https://github.com/arundidauli/json-to-excel">Source</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://arundidauli.github.io/Smart-EMI-Calculator/">
-        <img src="assets/screenshots/smart-emi-calculator.png" alt="Smart EMI Calculator" width="100%">
-      </a>
-      <br>
-      <b>Smart EMI Calculator</b>
-      <br>
-      <sub>Car, phone, or laptop — enter the price and know your EMI instantly</sub>
-      <br>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-      <br>
-      <a href="https://arundidauli.github.io/Smart-EMI-Calculator/">Live Demo</a> · <a href="https://github.com/arundidauli/Smart-EMI-Calculator">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://arundidauli.github.io/theme-vision/">
-        <img src="assets/screenshots/theme-vision.png" alt="Theme Vision" width="100%">
-      </a>
-      <br>
-      <b>Theme Vision</b>
-      <br>
-      <sub>Preview complete websites and mobile apps with real UI before choosing your color palette — handcrafted themes for every industry</sub>
-      <br>
-      <code>TypeScript</code> <code>React</code> <code>CSS</code>
-      <br>
-      <a href="https://arundidauli.github.io/theme-vision/">Live Demo</a> · <a href="https://github.com/arundidauli/theme-vision">Source</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://arundidauli.github.io/InvoiceCraft/">
-        <img src="assets/screenshots/invoice-craft.png" alt="InvoiceCraft" width="100%">
-      </a>
-      <br>
-      <b>InvoiceCraft</b>
-      <br>
-      <sub>Professional invoice generator with live preview, PDF export, multiple templates, and local storage</sub>
-      <br>
-      <code>React</code> <code>Vite</code> <code>Tailwind CSS</code>
-      <br>
-      <a href="https://arundidauli.github.io/InvoiceCraft/">Live Demo</a> · <a href="https://github.com/arundidauli/InvoiceCraft">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://arundidauli.github.io/typing-practice/">
-        <img src="assets/screenshots/typing-practice.png" alt="Typing Practice" width="100%">
-      </a>
-      <br>
-      <b>Typing Practice</b>
-      <br>
-      <sub>Addictive typing game with real-time WPM tracking, XP progression, levels, achievements, and keyboard heatmap</sub>
-      <br>
-      <code>React</code> <code>Vite</code> <code>JavaScript</code>
-      <br>
-      <a href="https://arundidauli.github.io/typing-practice/">Live Demo</a> · <a href="https://github.com/arundidauli/typing-practice">Source</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://arundidauli.github.io/luckynum/">
-        <img src="assets/screenshots/luckynum.png" alt="LuckyNum" width="100%">
-      </a>
-      <br>
-      <b>LuckyNum</b>
-      <br>
-      <sub>Supabase-powered betting game with email auth, persistent player state, and free deployment</sub>
-      <br>
-      <code>JavaScript</code> <code>Supabase</code> <code>HTML</code>
-      <br>
-      <a href="https://arundidauli.github.io/luckynum/">Live Demo</a> · <a href="https://github.com/arundidauli/luckynum">Source</a>
-    </td>
-  </tr>
-</table>
+- Developed 6+ Flutter & Android apps integrated with Firebase, Supabase, REST APIs, WebSockets, and payment gateways.
+- Built backend REST APIs using Django REST Framework for mobile-first products.
+- Implemented **BLoC, GetX, and Provider** state management patterns for maintainable and scalable architectures.
+- Collaborated directly with international stakeholders across time zones.
 
 ---
 
-## 📱 Client Projects Delivered
+## 🛠️ Technical Capabilities & Stack
 
-| Project | Stack | Users/Notes |
-|---|---|---|
-| 🇮🇳 [Darzee App](https://darzeeapp.com) — Tailoring Management | Flutter, Android, iOS, REST API, Firebase | **30,000+ active users** |
-| 🇦🇺 [Disport](https://disport.com.au) — Sports Social Platform | React Native, Android & iOS | Live on Play Store & App Store |
-| 🇦🇪 [Faweeth](https://faweeth.com) — Building Materials Marketplace | Flutter, AR/EN multi-language, Django | Dubai market, full Arabic/English |
-| 🇦🇺 [The Goat](https://thegoat.com.au) — Sports Social App | Flutter, Firebase, WebSockets, Django REST | Elite athletes platform |
-| 🇦🇺 Medhub — Medicine Delivery App | React Native, Android & iOS, Django/Python | On-demand delivery |
-| 🇦🇺 [Your Fish](https://yourfish.com.au) — Fishing Social Network | Flutter, Firebase, Google Maps, REST API | Location-based social app |
-| 🇦🇺 T1 — Electrician Task Platform | React Native, Android & iOS, Django REST | Job scheduling & management |
-| 🇺🇸 [Pawpular](https://pawpular.io) — NFT Pet Rewards | Flutter, Web3, NFT integration | Blockchain pet rewards |
+```
+Mobile Engineering   │ Flutter (Dart), React Native, Android Native (Kotlin/Java), iOS (Swift)
+State & Architecture │ BLoC, Provider, GetX, Clean Architecture, Offline-First SQLite Sync
+Backend & APIs       │ Python, Django REST Framework, PostgreSQL, SQLite, Firebase, Supabase, WebSockets, GraphQL
+DevOps & Releases    │ Fastlane, GitHub Actions CI/CD, App Store Connect, Google Play Console, Docker
+Web & Full-Stack     │ Next.js, React, TypeScript, Tailwind CSS, Responsive Web Design
+Intelligent Systems  │ OpenAI API, RAG, Prompt Caching, Token Optimization (~60% Cost Reduction)
+```
 
 ---
 
-## 🧰 Skills & Technology Stack
-
-| Category | Technologies |
-|---|---|
-| **Mobile** | Flutter, Android Native, iOS Native, React Native |
-| **Languages** | Dart, Kotlin, Java, JavaScript, TypeScript, Python |
-| **State Management** | GetX, Provider, BLoC, Riverpod |
-| **Backend** | Django REST Framework, GraphQL, WebSockets |
-| **Databases** | PostgreSQL, SQLite, Firebase, Supabase |
-| **Web Frontend** | Next.js, React, HTML/CSS, Tailwind CSS |
-| **AI Dev Tools** | Claude Code CLI, OpenAI Codex, GitHub Copilot, Cursor IDE |
-| **AI Integration** | OpenAI API, Prompt Engineering, Token Optimisation, RAG, AI Agents |
-| **DevOps & CI/CD** | GitHub Actions, Fastlane, GitLab CI, Docker basics |
-| **Store & Release** | Play Store, App Store, TestFlight, Firebase Distribution |
-| **Remote & Tools** | Jira, Trello, Notion, Slack, Loom, Figma |
-
----
-
-## 🎓 Education
-
-**B.Tech — Computer Science & Engineering** *(December 2019)*
-
-🌐 Languages: English, Hindi | Remote: async-first across AU, NZ, US & UAE time zones
-
-💡 Interests: AI Agents • Open Source • Music • Gym
-
----
+## 📊 GitHub Analytics
 
 <p align="center">
-  <i>Last updated: July 2026</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=arundidauli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arun Kumar's GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundidauli&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%">
 </p>
+
+---
+
+## 📬 Connect with Arun
+
+- 🌐 **Portfolio:** [arundidauli.github.io](https://arundidauli.github.io)
+- 📄 **Resume:** [Download PDF](https://arundidauli.github.io/assets/Arun_Kumar_Resume.pdf)
+- 💼 **LinkedIn:** [linkedin.com/in/arun-kumar-172b57220](https://www.linkedin.com/in/arun-kumar-172b57220/)
+- 📧 **Email:** [arun080697@gmail.com](mailto:arun080697@gmail.com)
+- 📱 **Phone / WhatsApp:** +91 9389550053
