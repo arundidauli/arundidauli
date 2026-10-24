@@ -18,7 +18,7 @@
   <a href="https://arundidauli.github.io/"><img src="https://img.shields.io/badge/Live_Portfolio-arundidauli.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://arundidauli.github.io/assets/Arun_Kumar_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Direct_PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" /></a>
   <a href="https://www.linkedin.com/in/arun-kumar-172b57220/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:arun080697@gmail.com"><img src="https://img.shields.io/badge/Email-arun080697@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:arunandroid01@gmail.com"><img src="https://img.shields.io/badge/Email-arunandroid01@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -184,8 +184,8 @@ Intelligent Systems  │ OpenAI API, RAG, Prompt Caching, Token Optimization (~6
 
 ## 📬 Connect with Arun
 
+- 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/919389550053?text=Hi%20Arun,%20I%20saw%20your%20GitHub%20and%20would%20love%20to%20connect!)
 - 🌐 **Portfolio:** [arundidauli.github.io](https://arundidauli.github.io)
 - 📄 **Resume:** [Download PDF](https://arundidauli.github.io/assets/Arun_Kumar_Resume.pdf)
 - 💼 **LinkedIn:** [linkedin.com/in/arun-kumar-172b57220](https://www.linkedin.com/in/arun-kumar-172b57220/)
-- 📧 **Email:** [arun080697@gmail.com](mailto:arun080697@gmail.com)
-- 📱 **Phone / WhatsApp:** +91 9389550053
+- 📧 **Email:** [arunandroid01@gmail.com](mailto:arunandroid01@gmail.com)
